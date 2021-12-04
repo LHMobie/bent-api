@@ -1,0 +1,9 @@
+**/*.sh
+**/*_old.*
+**/build
+**/dist
+**/env_scripts
+**/*.egg-info
+**/scripts
+**/alembic.ini
+**/alembic
